@@ -1,7 +1,7 @@
 # Financial Portfolio Optimization
 
 ## Project Overview
-Ye project financial portfolio optimization pe based hai jisme hum ek given set of assets ke returns aur risks ko analyze karke optimal portfolio allocation find karte hain. Isme Modern Portfolio Theory (MPT) aur Markowitz Optimization ka use karke portfolio ka expected return maximize karte hain aur risk minimize karte hain.
+This project is based on Financial Portfolio Optimization, where we analyze the returns and risks of a given set of assets to determine the optimal portfolio allocation. Using Modern Portfolio Theory (MPT) and Markowitz Optimization, the goal is to maximize the expected return while minimizing the associated risk of the portfolio.
 
 ## Features
 - Portfolio expected return calculation
